@@ -1,5 +1,5 @@
 {
-  "name": "ajs-homework-5",
+  "name": "ajs-homework-5.2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -51,11 +51,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cesaress/ajs-homework-5.git"
+    "url": "git+https://github.com/Cesaress/ajs-homework-5.2.git"
   },
   "bugs": {
-    "url": "https://github.com/Cesaress/ajs-homework-5/issues"
+    "url": "https://github.com/Cesaress/ajs-homework-5.2/issues"
   },
-  "homepage": "https://github.com/Cesaress/ajs-homework-5#readme",
+  "homepage": "https://github.com/Cesaress/ajs-homework-5.2#readme",
   "description": ""
 }
